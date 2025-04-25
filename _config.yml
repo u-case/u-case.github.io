@@ -119,9 +119,9 @@ author:
   location         : "Nepal"
   email            : "chaulagai28@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:chaulagai28@gmail.com"
+    #- label: "Email"
+     # icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:chaulagai28@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://u-case.github.io"
